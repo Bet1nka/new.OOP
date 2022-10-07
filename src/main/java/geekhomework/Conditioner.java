@@ -1,3 +1,5 @@
+package geekhomework;
+
 public class Conditioner {
     private Boolean status;
 

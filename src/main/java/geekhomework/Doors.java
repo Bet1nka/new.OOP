@@ -1,3 +1,5 @@
+package geekhomework;
+
 public class Doors {
     private Boolean doorstatus;
     public void LockDoors(){
