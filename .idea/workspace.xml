@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffab7bb3-e7a1-47c6-8d5d-18ebc7e8e431" name="Changes" comment="1car">
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Checkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/DriverSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/GasolineEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Mirrors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/SalonSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Seats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Transmission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/PersonbyWeigth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ComfortPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekhomework/ComfortPlus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Conditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Conditioner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Doors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Doors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Handlerbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekhomework/Handlerbar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Transmission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Wheel.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -72,8 +55,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus ROG Strix Scar\IdeaProjects\new.OOP\src\main\java\geekhomework" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="homework3" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="geekhomework.Car" />
       <module name="new.OOP" />
@@ -81,8 +67,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework3.Iterator" />
+      <module name="new.OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework3.Person" />
+      <module name="new.OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Iterator" />
         <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
