@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffab7bb3-e7a1-47c6-8d5d-18ebc7e8e431" name="Changes" comment="1car">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/PersonbyWeigth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw4/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw4/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw4/FruitBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw4/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,7 +61,7 @@
       <recent name="homework3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Person">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="geekhomework.Car" />
       <module name="new.OOP" />
@@ -73,6 +75,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw4.Main" />
+      <module name="new.OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Iterator" />
         <item itemvalue="Application.Car" />
